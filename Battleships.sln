@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Battleships", "Battleships\Battleships.vcxproj", "{7F3FFDCC-1CD3-4A7B-9024-EB33D763974B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BattleshipInstaller", "BattleshipInstaller\BattleshipInstaller.vdproj", "{A6A52E74-01D9-47CE-90AA-12F708E3D913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3FFDCC-1CD3-4A7B-9024-EB33D763974B}.Debug|x64.ActiveCfg = Debug|x64
+		{7F3FFDCC-1CD3-4A7B-9024-EB33D763974B}.Debug|x64.Build.0 = Debug|x64
+		{7F3FFDCC-1CD3-4A7B-9024-EB33D763974B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F3FFDCC-1CD3-4A7B-9024-EB33D763974B}.Debug|x86.Build.0 = Debug|Win32
+		{7F3FFDCC-1CD3-4A7B-9024-EB33D763974B}.Release|x64.ActiveCfg = Release|x64
+		{7F3FFDCC-1CD3-4A7B-9024-EB33D763974B}.Release|x64.Build.0 = Release|x64
+		{7F3FFDCC-1CD3-4A7B-9024-EB33D763974B}.Release|x86.ActiveCfg = Release|Win32
+		{7F3FFDCC-1CD3-4A7B-9024-EB33D763974B}.Release|x86.Build.0 = Release|Win32
+		{A6A52E74-01D9-47CE-90AA-12F708E3D913}.Debug|x64.ActiveCfg = Debug
+		{A6A52E74-01D9-47CE-90AA-12F708E3D913}.Debug|x86.ActiveCfg = Debug
+		{A6A52E74-01D9-47CE-90AA-12F708E3D913}.Release|x64.ActiveCfg = Release
+		{A6A52E74-01D9-47CE-90AA-12F708E3D913}.Release|x86.ActiveCfg = Release
+		{A6A52E74-01D9-47CE-90AA-12F708E3D913}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2E57B93-6A2B-40AB-9AE2-E5A26EA685AF}
+	EndGlobalSection
+EndGlobal
